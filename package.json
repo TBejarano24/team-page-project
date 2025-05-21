@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tbejarano24.github.io/team-page-project/",
+  "homepage": "https://tbejarano24.github.io/team-page-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
